@@ -1,0 +1,5 @@
+Company 4:1992:Sep:6456
+Company 3:1990:Jan:567770
+Company 5:1992:Jun:8970
+Company 1:1991:Jan:894541
+Company 2:1990:Dec:53425
